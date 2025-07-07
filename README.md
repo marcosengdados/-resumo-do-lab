@@ -50,7 +50,7 @@ Este projeto tem como objetivo a criação de uma **máquina virtual Linux com i
    - Autentique o Ngrok
    - Inicie a interface gráfica
 
-3. Acesse o endereço RDP fornecido com login e senha padrão (`colab`/`colab123` por padrão, modificável no script).
+3. Acesse o endereço RDP fornecido tem o login e senha padrão, ajustando de acordo a sua execução.
 
 ---
 
