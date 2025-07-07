@@ -43,7 +43,7 @@ Este projeto tem como objetivo a criação de uma **máquina virtual Linux com i
 ## 📦 Como usar
 
 1. Acesse o notebook do projeto:  
-   👉 [Clique aqui para abrir no Colab](https://github.com/marcosengdados/Maquina_virtual_colab/blob/main/maquina_virtual_colab.ipynb)
+   👉 [Clique aqui para abrir o projeto](https://github.com/marcosengdados/Maquina_virtual_colab/blob/main/maquina_virtual_colab.ipynb)
 
 2. Siga as instruções passo a passo:
    - Instale os pacotes
